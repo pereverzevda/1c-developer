@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name xmlns="">BDDTest</name>
+	<test-cases xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru">
+		<test-case start="63632889004733" stop="63632889005150" status="pending">
+			<name>Разработка через фича-файлы</name>
+			<failure>
+				<message>Не реализовано.</message>
+			</failure>
+			<steps>
+				<step start="63632889005150" stop="63632889005150" status="pending">
+					<name>Дано</name>
+					<title>Дано</title>
+				</step>
+				<step start="63632889005150" stop="63632889005150" status="skipped">
+					<name>Дано: Поступила ерунда</name>
+					<title>Дано: Поступила ерунда</title>
+				</step>
+				<step start="63632889005150" stop="63632889005150" status="skipped">
+					<name>Когда Когда я ее обрабатываю</name>
+					<title>Когда Когда я ее обрабатываю</title>
+				</step>
+				<step start="63632889005150" stop="63632889005150" status="skipped">
+					<name>Тогда я формирую фича файл</name>
+					<title>Тогда я формирую фича файл</title>
+				</step>
+				<step start="63632889005150" stop="63632889005150" status="skipped">
+					<name>И Только потом начинаю разрабатывать</name>
+					<title>И Только потом начинаю разрабатывать</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Разработка через фича-файлы"/>
+			</labels>
+		</test-case>
+		<test-case start="63632889005619" stop="63632889006020" status="pending">
+			<name>Запуск проверок BDD</name>
+			<failure>
+				<message>Не реализовано.</message>
+			</failure>
+			<steps>
+				<step start="63632889006020" stop="63632889006020" status="pending">
+					<name>Дано</name>
+					<title>Дано</title>
+				</step>
+				<step start="63632889006020" stop="63632889006020" status="skipped">
+					<name>Когда</name>
+					<title>Когда</title>
+				</step>
+				<step start="63632889006020" stop="63632889006020" status="skipped">
+					<name>И</name>
+					<title>И</title>
+				</step>
+				<step start="63632889006020" stop="63632889006020" status="skipped">
+					<name>Тогда</name>
+					<title>Тогда</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Запуск проверок BDD"/>
+			</labels>
+		</test-case>
+		<test-case start="63632889006136" stop="63632889006337" status="pending">
+			<name>Запуск проверок TDD</name>
+			<failure>
+				<message>Не реализовано.</message>
+			</failure>
+			<steps>
+				<step start="63632889006337" stop="63632889006337" status="pending">
+					<name>Дано</name>
+					<title>Дано</title>
+				</step>
+				<step start="63632889006337" stop="63632889006337" status="skipped">
+					<name>Когда</name>
+					<title>Когда</title>
+				</step>
+				<step start="63632889006337" stop="63632889006337" status="skipped">
+					<name>И</name>
+					<title>И</title>
+				</step>
+				<step start="63632889006337" stop="63632889006337" status="skipped">
+					<name>Тогда</name>
+					<title>Тогда</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Запуск проверок TDD"/>
+			</labels>
+		</test-case>
+	</test-cases>
+	<labels xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru">
+		<label name="feature" value="BDDTest"/>
+		<label name="framework" value="vanessa-behavior"/>
+		<label name="language" value="1С"/>
+	</labels>
+</ns2:test-suite>

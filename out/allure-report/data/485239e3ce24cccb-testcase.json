@@ -1,0 +1,110 @@
+{
+  "uid" : "485239e3ce24cccb",
+  "name" : "Запуск проверок TDD",
+  "title" : "Запуск проверок TDD",
+  "time" : {
+    "start" : 63632889006136,
+    "stop" : 63632889006337,
+    "duration" : 201
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : {
+    "message" : "Не реализовано.",
+    "stackTrace" : null
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PENDING",
+  "suite" : {
+    "uid" : "6e6aae0760e8a6c3",
+    "name" : "BDDTest",
+    "title" : "BDD test"
+  },
+  "steps" : [ {
+    "name" : "Дано",
+    "title" : "Дано",
+    "time" : {
+      "start" : 63632889006337,
+      "stop" : 63632889006337,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PENDING",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Когда",
+    "title" : "Когда",
+    "time" : {
+      "start" : 63632889006337,
+      "stop" : 63632889006337,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "SKIPPED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И",
+    "title" : "И",
+    "time" : {
+      "start" : 63632889006337,
+      "stop" : 63632889006337,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "SKIPPED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда",
+    "title" : "Тогда",
+    "time" : {
+      "start" : 63632889006337,
+      "stop" : 63632889006337,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "SKIPPED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "BDDTest"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "story",
+    "value" : "Запуск проверок TDD"
+  }, {
+    "name" : "feature",
+    "value" : "BDDTest"
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}

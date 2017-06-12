@@ -1,0 +1,54 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 5,
+        "passed" : 0,
+        "pending" : 5,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 63632889004733,
+        "stop" : 63632889311702,
+        "duration" : 306969
+      }
+    },
+    "defects" : {
+      "totalCount" : 0,
+      "items" : [ ]
+    },
+    "xunit" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "uid" : "6e6aae0760e8a6c3",
+        "title" : "BDD test",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 0,
+          "pending" : 5,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "BDDTest",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 0,
+          "pending" : 5,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

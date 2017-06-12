@@ -1,0 +1,58 @@
+{
+  "testCases" : [ {
+    "uid" : "2d112d2d32ac103d",
+    "name" : "Разработка через фича-файлы",
+    "title" : "Разработка через фича-файлы",
+    "time" : {
+      "start" : 63632889004733,
+      "stop" : 63632889005150,
+      "duration" : 417
+    },
+    "severity" : "NORMAL",
+    "status" : "PENDING"
+  }, {
+    "uid" : "c5cfb85fc53b0266",
+    "name" : "Запуск проверок BDD",
+    "title" : "Запуск проверок BDD",
+    "time" : {
+      "start" : 63632889005619,
+      "stop" : 63632889006020,
+      "duration" : 401
+    },
+    "severity" : "NORMAL",
+    "status" : "PENDING"
+  }, {
+    "uid" : "485239e3ce24cccb",
+    "name" : "Запуск проверок TDD",
+    "title" : "Запуск проверок TDD",
+    "time" : {
+      "start" : 63632889006136,
+      "stop" : 63632889006337,
+      "duration" : 201
+    },
+    "severity" : "NORMAL",
+    "status" : "PENDING"
+  }, {
+    "uid" : "494f76ff52dcb2ed",
+    "name" : "Разработка через фича-файлы",
+    "title" : "Разработка через фича-файлы",
+    "time" : {
+      "start" : 63632889310859,
+      "stop" : 63632889311702,
+      "duration" : 843
+    },
+    "severity" : "NORMAL",
+    "status" : "PENDING"
+  }, {
+    "uid" : "3b69b4fbfdca6845",
+    "name" : "Разработка через фича-файлы",
+    "title" : "Разработка через фича-файлы",
+    "time" : {
+      "start" : 63632889108560,
+      "stop" : 63632889108970,
+      "duration" : 410
+    },
+    "severity" : "NORMAL",
+    "status" : "PENDING"
+  } ]
+}

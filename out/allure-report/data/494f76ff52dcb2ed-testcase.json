@@ -1,0 +1,110 @@
+{
+  "uid" : "494f76ff52dcb2ed",
+  "name" : "Разработка через фича-файлы",
+  "title" : "Разработка через фича-файлы",
+  "time" : {
+    "start" : 63632889310859,
+    "stop" : 63632889311702,
+    "duration" : 843
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : {
+    "message" : "Не реализовано.",
+    "stackTrace" : null
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PENDING",
+  "suite" : {
+    "uid" : "6e6aae0760e8a6c3",
+    "name" : "BDDTest",
+    "title" : "BDD test"
+  },
+  "steps" : [ {
+    "name" : "Дано: Поступила ерунда",
+    "title" : "Дано: Поступила ерунда",
+    "time" : {
+      "start" : 63632889311297,
+      "stop" : 63632889311297,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Когда Когда я ее обрабатываю",
+    "title" : "Когда Когда я ее обрабатываю",
+    "time" : {
+      "start" : 63632889311495,
+      "stop" : 63632889311495,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда я формирую фича файл",
+    "title" : "Тогда я формирую фича файл",
+    "time" : {
+      "start" : 63632889311697,
+      "stop" : 63632889311702,
+      "duration" : 5
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PENDING",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И Только потом начинаю разрабатывать",
+    "title" : "И Только потом начинаю разрабатывать",
+    "time" : {
+      "start" : 63632889311702,
+      "stop" : 63632889311702,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "SKIPPED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Разработка через фича-файлы"
+  }, {
+    "name" : "suite-name",
+    "value" : "BDDTest"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "feature",
+    "value" : "BDDTest"
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}

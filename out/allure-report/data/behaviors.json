@@ -1,0 +1,105 @@
+{
+  "features" : [ {
+    "title" : "BDDTest",
+    "statistic" : {
+      "total" : 5,
+      "passed" : 0,
+      "pending" : 5,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "48fdd683d7fcc8f4",
+      "title" : "Разработка через фича-файлы",
+      "statistic" : {
+        "total" : 3,
+        "passed" : 0,
+        "pending" : 3,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "2d112d2d32ac103d",
+        "name" : "Разработка через фича-файлы",
+        "title" : "Разработка через фича-файлы",
+        "time" : {
+          "start" : 63632889004733,
+          "stop" : 63632889005150,
+          "duration" : 417
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      }, {
+        "uid" : "494f76ff52dcb2ed",
+        "name" : "Разработка через фича-файлы",
+        "title" : "Разработка через фича-файлы",
+        "time" : {
+          "start" : 63632889310859,
+          "stop" : 63632889311702,
+          "duration" : 843
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      }, {
+        "uid" : "3b69b4fbfdca6845",
+        "name" : "Разработка через фича-файлы",
+        "title" : "Разработка через фича-файлы",
+        "time" : {
+          "start" : 63632889108560,
+          "stop" : 63632889108970,
+          "duration" : 410
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      } ]
+    }, {
+      "uid" : "84cf1c68f0852f59",
+      "title" : "Запуск проверок BDD",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 0,
+        "pending" : 1,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "c5cfb85fc53b0266",
+        "name" : "Запуск проверок BDD",
+        "title" : "Запуск проверок BDD",
+        "time" : {
+          "start" : 63632889005619,
+          "stop" : 63632889006020,
+          "duration" : 401
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      } ]
+    }, {
+      "uid" : "69cfc40818b25b41",
+      "title" : "Запуск проверок TDD",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 0,
+        "pending" : 1,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "485239e3ce24cccb",
+        "name" : "Запуск проверок TDD",
+        "title" : "Запуск проверок TDD",
+        "time" : {
+          "start" : 63632889006136,
+          "stop" : 63632889006337,
+          "duration" : 201
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      } ]
+    } ]
+  } ]
+}
