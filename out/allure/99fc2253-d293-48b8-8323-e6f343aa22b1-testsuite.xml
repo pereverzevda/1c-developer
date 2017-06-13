@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name xmlns="">BDDTest</name>
+	<test-cases xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru">
+		<test-case start="63632936088961" stop="63632936089895" status="pending">
+			<name>Разработка через фича-файлы</name>
+			<failure>
+				<message>Не реализовано.</message>
+			</failure>
+			<steps>
+				<step start="63632936089529" stop="63632936089530" status="passed">
+					<name>Дано: Поступила ерунда</name>
+					<title>Дано: Поступила ерунда</title>
+				</step>
+				<step start="63632936089684" stop="63632936089685" status="passed">
+					<name>Когда Когда я ее обрабатываю</name>
+					<title>Когда Когда я ее обрабатываю</title>
+				</step>
+				<step start="63632936089887" stop="63632936089894" status="pending">
+					<name>Тогда я формирую фича файл</name>
+					<title>Тогда я формирую фича файл</title>
+				</step>
+				<step start="63632936089895" stop="63632936089895" status="skipped">
+					<name>И Только потом начинаю разрабатывать</name>
+					<title>И Только потом начинаю разрабатывать</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Разработка через фича-файлы"/>
+			</labels>
+		</test-case>
+	</test-cases>
+	<labels xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru">
+		<label name="feature" value="BDDTest"/>
+		<label name="framework" value="vanessa-behavior"/>
+		<label name="language" value="1С"/>
+	</labels>
+</ns2:test-suite>
